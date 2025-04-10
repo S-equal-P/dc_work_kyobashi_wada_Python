@@ -12,7 +12,7 @@
 以下のコマンドを実行して、必要なライブラリをインストールします。
 
 ```bash
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
 アプリケーションの起動：
 
