@@ -26,13 +26,13 @@ python 名前から性別判断_GUI.py
 
 ## ファイル構成
 
-名前から性別判断_GUI.py：​メインのGUIアプリケーション​
+・名前から性別判断_GUI.py：​メインのGUIアプリケーション​
 
-gender_model.pkl：​性別判定モデル​
+・gender_model.pkl：​性別判定モデル​
 
-vectorizer.pkl：​特徴量変換器​
+・vectorizer.pkl：​特徴量変換器​
 
-requirements.txt：​必要なライブラリ一覧​
+・requirements.txt：​必要なライブラリ一覧​
 
 ## ライセンス
 このプロジェクトはMITライセンスのもとで公開されています。​
