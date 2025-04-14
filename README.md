@@ -16,6 +16,7 @@
  pip install -r requirements.txt
 ```
 
+
 アプリケーションの起動：
 
 以下のコマンドでアプリケーションを起動します。
@@ -23,6 +24,7 @@
 ```bash
 python 名前から性別判断_GUI.py
 ```
+
 
 GUIの操作方法：
 
