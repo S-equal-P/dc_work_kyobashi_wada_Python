@@ -23,10 +23,6 @@
 ```bash
 python 名前から性別判断_GUI.py
 ```
-
-![MainWindow 2025_04_14 10_39_45](https://github.com/user-attachments/assets/b694047f-bf96-4aa5-8301-6de8d22003cc)
-
-
 ## ファイル構成
 
 ・名前から性別判断_GUI.py：​メインのGUIアプリケーション​
