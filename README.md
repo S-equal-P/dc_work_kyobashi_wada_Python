@@ -13,6 +13,7 @@
 
 ```bash
  pip install -r requirements.txt
+```
 
 アプリケーションの起動：
 
@@ -20,6 +21,7 @@
 
 ```bash
 python 名前から性別判断_GUI.py
+```
 
 ## ファイル構成
 
