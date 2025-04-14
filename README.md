@@ -28,7 +28,7 @@ python 名前から性別判断_GUI.py
 
 ・名前から性別判断_GUI.py：​メインのGUIアプリケーション​
 
-・GUI.ui、GUI.py：GUIフォーマット(GUI.pyは名前から性別判断_GUI.py実行時に必要)
+・gui.ui、gui.py：GUIフォーマット(GUI.pyは名前から性別判断_GUI.py実行時に必要)
 
 ・名前から性別判断_学習.py：名前一覧.xlsxを学習データとしてgender_model.pkl、vectorizer.pklを生成
 
