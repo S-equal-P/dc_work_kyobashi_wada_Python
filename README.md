@@ -26,6 +26,7 @@ python 名前から性別判断_GUI.py
 
 GUIの操作方法：
 ![MainWindow 2025_04_14 10_39_45](https://github.com/user-attachments/assets/cf5a04fd-f824-4a67-a249-371d557df33d)
+
 ・分析開始ボタンの横にあるテキストボックスに分析したい名前を入力する
 
 ・分析開始ボタンをクリックする
