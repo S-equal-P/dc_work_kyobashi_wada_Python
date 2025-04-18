@@ -35,7 +35,7 @@ python 名前から性別判断_GUI.py
 
 ---
 
-## 🧭 GUIの操作方法
+## GUIの操作方法
 
 ![MainWindow 2025_04_14 10_53_40](https://github.com/user-attachments/assets/91e99106-c0f2-4939-8df9-67d74837db8e)
 
